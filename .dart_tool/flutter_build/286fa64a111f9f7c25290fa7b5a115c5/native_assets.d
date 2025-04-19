@@ -1,0 +1,1 @@
+ C:\\Users\\HamidReza\\StudioProjects\\cryptoX\\.dart_tool\\flutter_build\\286fa64a111f9f7c25290fa7b5a115c5\\native_assets.yaml: 
